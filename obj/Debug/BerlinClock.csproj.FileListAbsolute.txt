@@ -1,0 +1,12 @@
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojAssemblyReference.cache
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\obj\Debug\BerlinClock.csproj.CoreCompileInputs.cache
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\obj\Debug\BerlinClock.csproj.CopyComplete
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\System.ValueTuple.dll
+C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\bin\Debug\System.ValueTuple.xml

@@ -1,0 +1,407 @@
+﻿2019-11-30T18:47:58.6174797+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-30T18:47:58.6175843+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.37 in Framework netcore21 in x64 mode execution started
+2019-11-30T18:47:58.6175896+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-30T18:47:58.7283490+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\SpectFlowTest.dll
+2019-11-30T18:47:58.7288225+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\TestResults" (default)
+2019-11-30T18:47:58.7290086+01:00;VSTestExecutionThread;Info;Profile: 
+2019-11-30T18:47:58.7826753+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\TestResults\Unnamed project__2019-11-30T184758.log
+2019-11-30T18:47:58.7938831+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-30T18:47:58.8052781+01:00;Thread#12;Info;Checking license
+2019-11-30T18:47:58.8319901+01:00;Thread#12;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-11-30T18:48:06.8326931+01:00;Thread#12;Info;Evaluation delay finished.
+2019-11-30T18:48:06.8449305+01:00;Thread#12;Info;License check completed
+2019-11-30T18:48:06.8451261+01:00;Thread#12;Info;starting test run
+2019-11-30T18:48:06.8544006+01:00;Thread#12;Info;Discovering target: Default
+2019-11-30T18:48:06.8546430+01:00;Thread#12;Info;Discovering tests from assembly: C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\SpectFlowTest.dll
+2019-11-30T18:48:06.9964263+01:00;Thread#12;Info;Discovered tests from assembly: C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\SpectFlowTest.dll
+2019-11-30T18:48:06.9989013+01:00:Test Suite Dump
+2019-11-30T18:48:07.0027040+01:00:#0: Unnamed project/ - 
+2019-11-30T18:48:07.0027383+01:00:#1: Default - 
+2019-11-30T18:48:07.0027436+01:00:#2: SpectFlowTest - 
+2019-11-30T18:48:07.0027500+01:00:#3: The Berlin Clock - 
+2019-11-30T18:48:07.0057223+01:00:#4: Midnight 00:00 - TestAssembly:SpectFlowTest/Feature:The+Berlin+Clock/Scenario:Midnight+00%3a00
+2019-11-30T18:48:07.0057823+01:00:#5: Middle of the afternoon - TestAssembly:SpectFlowTest/Feature:The+Berlin+Clock/Scenario:Middle+of+the+afternoon
+2019-11-30T18:48:07.0058065+01:00:#6: Just before midnight - TestAssembly:SpectFlowTest/Feature:The+Berlin+Clock/Scenario:Just+before+midnight
+2019-11-30T18:48:07.0058197+01:00:#7: Midnight 24:00 - TestAssembly:SpectFlowTest/Feature:The+Berlin+Clock/Scenario:Midnight+24%3a00
+2019-11-30T18:48:07.0059141+01:00:End: Test Suite Dump
+2019-11-30T18:48:07.0385296+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:07.0427608+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-11-30T18:48:07.0428575+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-11-30T18:48:07.0481799+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-30T18:48:07.0481954+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-11-30T18:48:07.0481984+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-11-30T18:48:07.0482025+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-11-30T18:48:07.0511646+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-11-30T18:48:07.0530133+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-30T18:48:07.0586343+01:00:Thread #0: creating new test thread executor for SpectFlowTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-11-30T18:48:07.0626563+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2019-11-30T18:48:07.0651872+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2019-11-30T18:48:07.0675834+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-11-30T18:48:07.0702672+01:00:starting Out Of Process Executor
+2019-11-30T18:48:07.0726542+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:07.0781050+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.0788345+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll'
+2019-11-30T18:48:07.0789565+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Validation.exe'
+2019-11-30T18:48:07.0790063+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.0819201+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2019-11-30T18:48:07.0819359+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2019-11-30T18:48:07.0983607+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:07.0983740+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\Microsoft.VisualStudio.Validation.dll'
+2019-11-30T18:48:07.0984748+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\Microsoft.VisualStudio.Validation.exe'
+2019-11-30T18:48:07.0985416+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:07.0988184+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:07.0988244+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\Microsoft.VisualStudio.Validation.dll'
+2019-11-30T18:48:07.0988958+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\Microsoft.VisualStudio.Validation.exe'
+2019-11-30T18:48:07.0989599+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:07.0991582+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:07.0991654+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\Microsoft.VisualStudio.Validation.dll'
+2019-11-30T18:48:07.0992035+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\Microsoft.VisualStudio.Validation.exe'
+2019-11-30T18:48:07.0992378+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:07.1084097+01:00:Starting callback TCP Rpc server
+2019-11-30T18:48:07.1346693+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2019-11-30T18:48:07.1347120+01:00:Started callback TCP Rpc server on port 32768
+2019-11-30T18:48:07.1347157+01:00:Starting logger TCP Rpc server
+2019-11-30T18:48:07.1375374+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2019-11-30T18:48:07.1375677+01:00:Started logger TCP Rpc server on port 32769
+2019-11-30T18:48:07.2743185+01:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll" --remoteRunnerPid 186484 --uniqueId "2019-11-30T184758" --outputFolder "C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.2965936+01:00:Executor with PID 186864 has been started successfully.
+2019-11-30T18:48:07.3043652+01:00:Out of Process Executor 186864 started
+2019-11-30T18:48:07.3043769+01:00:Waiting for endpoint
+2019-11-30T18:48:07.7350211+01:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:07.7350457+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.7350502+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\StreamJsonRpc.resources.dll'
+2019-11-30T18:48:07.7350899+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\StreamJsonRpc.resources.exe'
+2019-11-30T18:48:07.7351261+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.7351314+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2019-11-30T18:48:07.7351348+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2019-11-30T18:48:07.7357809+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:07.7357907+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\StreamJsonRpc.resources.dll'
+2019-11-30T18:48:07.7358670+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\StreamJsonRpc.resources.exe'
+2019-11-30T18:48:07.7359202+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:07.7361283+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:07.7361320+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\StreamJsonRpc.resources.dll'
+2019-11-30T18:48:07.7361936+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\StreamJsonRpc.resources.exe'
+2019-11-30T18:48:07.7362472+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:07.7365704+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:07.7365806+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\StreamJsonRpc.resources.dll'
+2019-11-30T18:48:07.7366312+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\StreamJsonRpc.resources.exe'
+2019-11-30T18:48:07.7366724+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:07.7380407+01:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:07.7390593+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:07.7390778+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.7390805+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll'
+2019-11-30T18:48:07.7391167+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.Threading.exe'
+2019-11-30T18:48:07.7391503+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:07.7391534+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2019-11-30T18:48:07.7391568+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2019-11-30T18:48:07.7397923+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:07.7398040+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\Microsoft.VisualStudio.Threading.dll'
+2019-11-30T18:48:07.7398863+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\Microsoft.VisualStudio.Threading.exe'
+2019-11-30T18:48:07.7399497+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:07.7402549+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:07.7402628+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\Microsoft.VisualStudio.Threading.dll'
+2019-11-30T18:48:07.7403530+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\Microsoft.VisualStudio.Threading.exe'
+2019-11-30T18:48:07.7404248+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:07.7407408+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:07.7407465+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\Microsoft.VisualStudio.Threading.dll'
+2019-11-30T18:48:07.7408005+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\Microsoft.VisualStudio.Threading.exe'
+2019-11-30T18:48:07.7408409+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:09.6307891+01:00:Remote executor port received: 32770
+2019-11-30T18:48:09.6315961+01:00:Creating executor TCP client on port 32770
+2019-11-30T18:48:09.6320484+01:00:Created executor TCP client on port 32770
+2019-11-30T18:48:09.6320560+01:00:Connecting to remote executor TCP server
+2019-11-30T18:48:09.6331259+01:00:Connected remote executor TCP server
+2019-11-30T18:48:09.6331550+01:00:trying to connect to Out of Process Executor the 1 attempt
+2019-11-30T18:48:09.6331622+01:00:Connection to Out of Process Executor established in the 1 attempt
+2019-11-30T18:48:09.8658289+01:00:2019-11-30T18:48:09.8630454+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\SpectFlowTest.dll on test thread #0
+2019-11-30T18:48:09.8741787+01:00:Endpoint 186864 started
+2019-11-30T18:48:09.8992501+01:00:2019-11-30T18:48:09.8989488+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2019-11-30T18:48:10.0578331+01:00:2019-11-30T18:48:10.0575068+01:00:Thread#0:T:2019-11-30T18:48:10.0549204+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-11-30T18:48:10.0626242+01:00:2019-11-30T18:48:10.0622791+01:00:Thread#0:T:2019-11-30T18:48:10.0621745+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.0754507+01:00:2019-11-30T18:48:10.0751286+01:00:Thread#0:T:2019-11-30T18:48:10.0750247+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.dll'
+2019-11-30T18:48:10.0763093+01:00:2019-11-30T18:48:10.0760053+01:00:Thread#0:T:2019-11-30T18:48:10.0759102+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.exe'
+2019-11-30T18:48:10.0769934+01:00:2019-11-30T18:48:10.0767193+01:00:Thread#0:T:2019-11-30T18:48:10.0766593+01:00:[AssemblyCache] Could not resolve 'TechTalk.SpecFlow' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.0815829+01:00:2019-11-30T18:48:10.0812491+01:00:Thread#0:T:2019-11-30T18:48:10.0811419+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2019-11-30T18:48:10.0859141+01:00:2019-11-30T18:48:10.0851552+01:00:Thread#0:T:2019-11-30T18:48:10.0850155+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\alberto.florenzo\.nuget\packages\specflow\3.1.67\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2019-11-30T18:48:10.2378551+01:00:2019-11-30T18:48:10.2373088+01:00:Thread#0:T:-> Loading plugin C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-11-30T18:48:10.2409445+01:00:2019-11-30T18:48:10.2405386+01:00:Thread#0:T:2019-11-30T18:48:10.2404408+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-11-30T18:48:10.2517082+01:00:2019-11-30T18:48:10.2511833+01:00:Thread#0:T:-> Using default config
+2019-11-30T18:48:10.2702293+01:00:2019-11-30T18:48:10.2697702+01:00:Thread#0:T:2019-11-30T18:48:10.2696358+01:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2019-11-30T18:48:10.2711117+01:00:2019-11-30T18:48:10.2707711+01:00:Thread#0:T:2019-11-30T18:48:10.2706862+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.2724095+01:00:2019-11-30T18:48:10.2720092+01:00:Thread#0:T:2019-11-30T18:48:10.2718393+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Cucumber.Messages.dll'
+2019-11-30T18:48:10.2734557+01:00:2019-11-30T18:48:10.2730785+01:00:Thread#0:T:2019-11-30T18:48:10.2729766+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Cucumber.Messages.exe'
+2019-11-30T18:48:10.2753685+01:00:2019-11-30T18:48:10.2749358+01:00:Thread#0:T:2019-11-30T18:48:10.2748078+01:00:[AssemblyCache] Could not resolve 'Cucumber.Messages' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.2763409+01:00:2019-11-30T18:48:10.2759565+01:00:Thread#0:T:2019-11-30T18:48:10.2757971+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2019-11-30T18:48:10.2780078+01:00:2019-11-30T18:48:10.2775611+01:00:Thread#0:T:2019-11-30T18:48:10.2774252+01:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\alberto.florenzo\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2019-11-30T18:48:10.2803669+01:00:2019-11-30T18:48:10.2798364+01:00:Thread#0:T:2019-11-30T18:48:10.2795510+01:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2019-11-30T18:48:10.2813306+01:00:2019-11-30T18:48:10.2809609+01:00:Thread#0:T:2019-11-30T18:48:10.2808329+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.2858536+01:00:2019-11-30T18:48:10.2818694+01:00:Thread#0:T:2019-11-30T18:48:10.2817206+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Google.Protobuf.dll'
+2019-11-30T18:48:10.2868595+01:00:2019-11-30T18:48:10.2864944+01:00:Thread#0:T:2019-11-30T18:48:10.2863792+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Google.Protobuf.exe'
+2019-11-30T18:48:10.2876660+01:00:2019-11-30T18:48:10.2873266+01:00:Thread#0:T:2019-11-30T18:48:10.2872446+01:00:[AssemblyCache] Could not resolve 'Google.Protobuf' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.2884578+01:00:2019-11-30T18:48:10.2881561+01:00:Thread#0:T:2019-11-30T18:48:10.2880254+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2019-11-30T18:48:10.2897061+01:00:2019-11-30T18:48:10.2892685+01:00:Thread#0:T:2019-11-30T18:48:10.2891208+01:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\alberto.florenzo\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2019-11-30T18:48:10.3060093+01:00:2019-11-30T18:48:10.3056196+01:00:Thread#0:T:2019-11-30T18:48:10.3055279+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:10.3068747+01:00:2019-11-30T18:48:10.3065307+01:00:Thread#0:T:2019-11-30T18:48:10.3064103+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.3077352+01:00:2019-11-30T18:48:10.3073602+01:00:Thread#0:T:2019-11-30T18:48:10.3072466+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2019-11-30T18:48:10.3090178+01:00:2019-11-30T18:48:10.3086066+01:00:Thread#0:T:2019-11-30T18:48:10.3084646+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.exe'
+2019-11-30T18:48:10.3100501+01:00:2019-11-30T18:48:10.3096718+01:00:Thread#0:T:2019-11-30T18:48:10.3095830+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.3108083+01:00:2019-11-30T18:48:10.3104873+01:00:Thread#0:T:2019-11-30T18:48:10.3103888+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2019-11-30T18:48:10.3121725+01:00:2019-11-30T18:48:10.3117893+01:00:Thread#0:T:2019-11-30T18:48:10.3116631+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\alberto.florenzo\.nuget\packages\microsoft.testplatform.objectmodel\15.9.0\lib\netstandard1.5\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2019-11-30T18:48:10.3636530+01:00:2019-11-30T18:48:10.3632388+01:00:Thread#0:T:2019-11-30T18:48:10.3631128+01:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2019-11-30T18:48:10.3644218+01:00:2019-11-30T18:48:10.3640634+01:00:Thread#0:T:2019-11-30T18:48:10.3640000+01:00:[AssemblyCache] Trying to resolve 'Utf8Json' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.3651041+01:00:2019-11-30T18:48:10.3648088+01:00:Thread#0:T:2019-11-30T18:48:10.3647310+01:00:[AssemblyCache] Trying to resolve 'Utf8Json' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Utf8Json.dll'
+2019-11-30T18:48:10.3658408+01:00:2019-11-30T18:48:10.3655572+01:00:Thread#0:T:2019-11-30T18:48:10.3654904+01:00:[AssemblyCache] Trying to resolve 'Utf8Json' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Utf8Json.exe'
+2019-11-30T18:48:10.3666189+01:00:2019-11-30T18:48:10.3663097+01:00:Thread#0:T:2019-11-30T18:48:10.3662304+01:00:[AssemblyCache] Could not resolve 'Utf8Json' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.3672846+01:00:2019-11-30T18:48:10.3670184+01:00:Thread#0:T:2019-11-30T18:48:10.3669342+01:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2019-11-30T18:48:10.3681621+01:00:2019-11-30T18:48:10.3678627+01:00:Thread#0:T:2019-11-30T18:48:10.3677940+01:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\alberto.florenzo\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2019-11-30T18:48:10.6786075+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-11-30T18:48:10.7304604+01:00:2019-11-30T18:48:10.7301172+01:00:Thread#0:B:When the time is "00:00:00"
+2019-11-30T18:48:10.7704673+01:00:2019-11-30T18:48:10.7701536+01:00:Thread#0:T:2019-11-30T18:48:10.7700547+01:00:Assembly resolving BerlinClock, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2019-11-30T18:48:10.7710397+01:00:2019-11-30T18:48:10.7708083+01:00:Thread#0:T:2019-11-30T18:48:10.7707539+01:00:[AssemblyCache] Trying to resolve 'BerlinClock' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.7715430+01:00:2019-11-30T18:48:10.7713384+01:00:Thread#0:T:2019-11-30T18:48:10.7712904+01:00:[AssemblyCache] Trying to resolve 'BerlinClock' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\BerlinClock.dll'
+2019-11-30T18:48:10.7721487+01:00:2019-11-30T18:48:10.7719429+01:00:Thread#0:T:2019-11-30T18:48:10.7718923+01:00:[AssemblyCache] Found file 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\BerlinClock.dll' for assembly 'BerlinClock'
+2019-11-30T18:48:10.7778486+01:00:2019-11-30T18:48:10.7775194+01:00:Thread#0:T:2019-11-30T18:48:10.7774408+01:00:[AssemblyCache] Resolved 'BerlinClock' to C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\BerlinClock.dll
+2019-11-30T18:48:10.7908968+01:00:2019-11-30T18:48:10.7903754+01:00:Thread#0:T:done: TheBerlinClockSteps.WhenTheTimeIs("00:00:00") (0,0s)
+2019-11-30T18:48:10.7942070+01:00:2019-11-30T18:48:10.7937830+01:00:Thread#0:B:Then the clock should look like
+2019-11-30T18:48:10.7946582+01:00:2019-11-30T18:48:10.7944324+01:00:Thread#0:B:  --- multiline step argument ---
+2019-11-30T18:48:10.7950603+01:00:2019-11-30T18:48:10.7948440+01:00:Thread#0:B:  Y
+2019-11-30T18:48:10.7955323+01:00:2019-11-30T18:48:10.7953054+01:00:Thread#0:B:  OOOO
+2019-11-30T18:48:10.7959129+01:00:2019-11-30T18:48:10.7957034+01:00:Thread#0:B:  OOOO
+2019-11-30T18:48:10.7963260+01:00:2019-11-30T18:48:10.7960836+01:00:Thread#0:B:  OOOOOOOOOOO
+2019-11-30T18:48:10.7967138+01:00:2019-11-30T18:48:10.7964997+01:00:Thread#0:B:  OOOO
+2019-11-30T18:48:10.7983367+01:00:2019-11-30T18:48:10.7979889+01:00:Thread#0:T:2019-11-30T18:48:10.7978949+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:10.7989733+01:00:2019-11-30T18:48:10.7987003+01:00:Thread#0:T:2019-11-30T18:48:10.7986225+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.8004065+01:00:2019-11-30T18:48:10.8001097+01:00:Thread#0:T:2019-11-30T18:48:10.8000146+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2019-11-30T18:48:10.8011854+01:00:2019-11-30T18:48:10.8008717+01:00:Thread#0:T:2019-11-30T18:48:10.8007773+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.TestFramework.exe'
+2019-11-30T18:48:10.8020498+01:00:2019-11-30T18:48:10.8017235+01:00:Thread#0:T:2019-11-30T18:48:10.8016159+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.8028152+01:00:2019-11-30T18:48:10.8025305+01:00:Thread#0:T:2019-11-30T18:48:10.8024421+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' from .deps.json file
+2019-11-30T18:48:10.8038995+01:00:2019-11-30T18:48:10.8035442+01:00:Thread#0:T:2019-11-30T18:48:10.8034411+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\alberto.florenzo\.nuget\packages\mstest.testframework\1.3.2\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2019-11-30T18:48:10.8121682+01:00:2019-11-30T18:48:10.8117604+01:00:Thread#0:T:done: TheBerlinClockSteps.ThenTheClockShouldLookLike("Y\r\nOOOO\r\nOOOO...") (0,0s)
+2019-11-30T18:48:10.8367215+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:10.8367623+01:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-11-30T18:48:10.8367718+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-11-30T18:48:10.8368107+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-30T18:48:10.8368144+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-11-30T18:48:10.8368167+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-11-30T18:48:10.8368193+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-11-30T18:48:10.8368329+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-11-30T18:48:10.8368427+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-30T18:48:10.8935864+01:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,214018 seconds
+2019-11-30T18:48:10.8969766+01:00:Thread#0: Test #5/0 is started on thread #0
+2019-11-30T18:48:10.8990092+01:00:2019-11-30T18:48:10.8986682+01:00:Thread#0:B:When the time is "13:17:01"
+2019-11-30T18:48:10.8996616+01:00:2019-11-30T18:48:10.8993969+01:00:Thread#0:T:done: TheBerlinClockSteps.WhenTheTimeIs("13:17:01") (0,0s)
+2019-11-30T18:48:10.9001835+01:00:2019-11-30T18:48:10.8999407+01:00:Thread#0:B:Then the clock should look like
+2019-11-30T18:48:10.9006475+01:00:2019-11-30T18:48:10.9003923+01:00:Thread#0:B:  --- multiline step argument ---
+2019-11-30T18:48:10.9011199+01:00:2019-11-30T18:48:10.9008865+01:00:Thread#0:B:  O
+2019-11-30T18:48:10.9016047+01:00:2019-11-30T18:48:10.9013491+01:00:Thread#0:B:  RROO
+2019-11-30T18:48:10.9020480+01:00:2019-11-30T18:48:10.9018177+01:00:Thread#0:B:  RRRO
+2019-11-30T18:48:10.9024679+01:00:2019-11-30T18:48:10.9022398+01:00:Thread#0:B:  YYROOOOOOOO
+2019-11-30T18:48:10.9028806+01:00:2019-11-30T18:48:10.9026548+01:00:Thread#0:B:  YYOO
+2019-11-30T18:48:10.9035636+01:00:2019-11-30T18:48:10.9032910+01:00:Thread#0:T:done: TheBerlinClockSteps.ThenTheClockShouldLookLike("O\r\nRROO\r\nRRRO...") (0,0s)
+2019-11-30T18:48:10.9048458+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:10.9048621+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-11-30T18:48:10.9048658+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-11-30T18:48:10.9048840+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-30T18:48:10.9048934+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-11-30T18:48:10.9048983+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-11-30T18:48:10.9049013+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-11-30T18:48:10.9049130+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-11-30T18:48:10.9049270+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-30T18:48:10.9061466+01:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0091364 seconds
+2019-11-30T18:48:10.9067780+01:00:Thread#0: Test #6/0 is started on thread #0
+2019-11-30T18:48:10.9085642+01:00:2019-11-30T18:48:10.9082716+01:00:Thread#0:B:When the time is "23:59:59"
+2019-11-30T18:48:10.9091468+01:00:2019-11-30T18:48:10.9089252+01:00:Thread#0:T:done: TheBerlinClockSteps.WhenTheTimeIs("23:59:59") (0,0s)
+2019-11-30T18:48:10.9095879+01:00:2019-11-30T18:48:10.9093809+01:00:Thread#0:B:Then the clock should look like
+2019-11-30T18:48:10.9100089+01:00:2019-11-30T18:48:10.9097948+01:00:Thread#0:B:  --- multiline step argument ---
+2019-11-30T18:48:10.9103899+01:00:2019-11-30T18:48:10.9101867+01:00:Thread#0:B:  O
+2019-11-30T18:48:10.9107610+01:00:2019-11-30T18:48:10.9105628+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:10.9111174+01:00:2019-11-30T18:48:10.9109302+01:00:Thread#0:B:  RRRO
+2019-11-30T18:48:10.9114637+01:00:2019-11-30T18:48:10.9112877+01:00:Thread#0:B:  YYRYYRYYRYY
+2019-11-30T18:48:10.9118024+01:00:2019-11-30T18:48:10.9116355+01:00:Thread#0:B:  YYYY
+2019-11-30T18:48:10.9123378+01:00:2019-11-30T18:48:10.9121189+01:00:Thread#0:T:done: TheBerlinClockSteps.ThenTheClockShouldLookLike("O\r\nRRRR\r\nRRRO...") (0,0s)
+2019-11-30T18:48:10.9137356+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:10.9137523+01:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-11-30T18:48:10.9137553+01:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-11-30T18:48:10.9137745+01:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-30T18:48:10.9137787+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-11-30T18:48:10.9137878+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-11-30T18:48:10.9137912+01:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-11-30T18:48:10.9138029+01:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-11-30T18:48:10.9138134+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-30T18:48:10.9149586+01:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0081575 seconds
+2019-11-30T18:48:10.9155219+01:00:Thread#0: Test #7/0 is started on thread #0
+2019-11-30T18:48:10.9171482+01:00:2019-11-30T18:48:10.9168506+01:00:Thread#0:B:When the time is "24:00:00"
+2019-11-30T18:48:10.9177183+01:00:2019-11-30T18:48:10.9175171+01:00:Thread#0:T:done: TheBerlinClockSteps.WhenTheTimeIs("24:00:00") (0,0s)
+2019-11-30T18:48:10.9181356+01:00:2019-11-30T18:48:10.9179441+01:00:Thread#0:B:Then the clock should look like
+2019-11-30T18:48:10.9184924+01:00:2019-11-30T18:48:10.9183232+01:00:Thread#0:B:  --- multiline step argument ---
+2019-11-30T18:48:10.9188390+01:00:2019-11-30T18:48:10.9186585+01:00:Thread#0:B:  Y
+2019-11-30T18:48:10.9192136+01:00:2019-11-30T18:48:10.9190353+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:10.9195643+01:00:2019-11-30T18:48:10.9193899+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:10.9199208+01:00:2019-11-30T18:48:10.9197501+01:00:Thread#0:B:  OOOOOOOOOOO
+2019-11-30T18:48:10.9202848+01:00:2019-11-30T18:48:10.9200888+01:00:Thread#0:B:  OOOO
+2019-11-30T18:48:10.9218612+01:00:2019-11-30T18:48:10.9215637+01:00:Thread#0:T:2019-11-30T18:48:10.9214882+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework.resources, Version=14.0.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:10.9224276+01:00:2019-11-30T18:48:10.9221791+01:00:Thread#0:T:2019-11-30T18:48:10.9221266+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.9231004+01:00:2019-11-30T18:48:10.9227285+01:00:Thread#0:T:2019-11-30T18:48:10.9226673+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-11-30T18:48:10.9238839+01:00:2019-11-30T18:48:10.9235969+01:00:Thread#0:T:2019-11-30T18:48:10.9235316+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-11-30T18:48:10.9245363+01:00:2019-11-30T18:48:10.9242845+01:00:Thread#0:T:2019-11-30T18:48:10.9242271+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:10.9250956+01:00:2019-11-30T18:48:10.9248732+01:00:Thread#0:T:2019-11-30T18:48:10.9248135+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' from .deps.json file
+2019-11-30T18:48:10.9256215+01:00:2019-11-30T18:48:10.9253889+01:00:Thread#0:T:2019-11-30T18:48:10.9253361+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' from .deps.json
+2019-11-30T18:48:10.9365592+01:00:2019-11-30T18:48:10.9362568+01:00:Thread#0:T:2019-11-30T18:48:10.9361760+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:10.9370811+01:00:2019-11-30T18:48:10.9368833+01:00:Thread#0:T:2019-11-30T18:48:10.9368361+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-11-30T18:48:10.9376796+01:00:2019-11-30T18:48:10.9374745+01:00:Thread#0:T:2019-11-30T18:48:10.9374255+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-11-30T18:48:10.9382905+01:00:2019-11-30T18:48:10.9380768+01:00:Thread#0:T:2019-11-30T18:48:10.9380266+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:10.9391148+01:00:2019-11-30T18:48:10.9388520+01:00:Thread#0:T:2019-11-30T18:48:10.9388006+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:10.9396328+01:00:2019-11-30T18:48:10.9394263+01:00:Thread#0:T:2019-11-30T18:48:10.9393761+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-11-30T18:48:10.9402328+01:00:2019-11-30T18:48:10.9400293+01:00:Thread#0:T:2019-11-30T18:48:10.9399723+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-11-30T18:48:10.9408897+01:00:2019-11-30T18:48:10.9406300+01:00:Thread#0:T:2019-11-30T18:48:10.9405779+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:10.9416536+01:00:2019-11-30T18:48:10.9414131+01:00:Thread#0:T:2019-11-30T18:48:10.9413561+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:10.9421679+01:00:2019-11-30T18:48:10.9419530+01:00:Thread#0:T:2019-11-30T18:48:10.9419017+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2019-11-30T18:48:10.9427044+01:00:2019-11-30T18:48:10.9425035+01:00:Thread#0:T:2019-11-30T18:48:10.9424469+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2019-11-30T18:48:10.9432704+01:00:2019-11-30T18:48:10.9430431+01:00:Thread#0:T:2019-11-30T18:48:10.9429899+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:10.9459717+01:00:2019-11-30T18:48:10.9456537+01:00:Thread#0:T:2019-11-30T18:48:10.9455725+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework.resources, Version=14.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:10.9743212+01:00:2019-11-30T18:48:10.9739583+01:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<Y
+2019-11-30T18:48:10.9747902+01:00:2019-11-30T18:48:10.9745383+01:00:Thread#0:T:OOOO
+2019-11-30T18:48:10.9752791+01:00:2019-11-30T18:48:10.9750326+01:00:Thread#0:T:OOOO
+2019-11-30T18:48:10.9757470+01:00:2019-11-30T18:48:10.9754819+01:00:Thread#0:T:OOOOOOOOOOO
+2019-11-30T18:48:10.9761657+01:00:2019-11-30T18:48:10.9759452+01:00:Thread#0:T:OOOO>. Actual:<Y
+2019-11-30T18:48:10.9766973+01:00:2019-11-30T18:48:10.9763922+01:00:Thread#0:T:RRRR
+2019-11-30T18:48:10.9771572+01:00:2019-11-30T18:48:10.9769069+01:00:Thread#0:T:RRRR
+2019-11-30T18:48:10.9775797+01:00:2019-11-30T18:48:10.9773570+01:00:Thread#0:T:OOOOOOOOOOO
+2019-11-30T18:48:10.9779588+01:00:2019-11-30T18:48:10.9777579+01:00:Thread#0:T:OOOO>. 
+2019-11-30T18:48:10.9885869+01:00:Thread#0:TestItem#7:Scheduler: reschedule tests for testitem #7
+2019-11-30T18:48:10.9892473+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:10.9893247+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+2019-11-30T18:48:10.9893322+01:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-11-30T18:48:10.9893534+01:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-30T18:48:10.9893806+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-11-30T18:48:10.9893844+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-11-30T18:48:10.9893881+01:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-11-30T18:48:10.9894013+01:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-11-30T18:48:10.9894104+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-11-30T18:48:10.9915147+01:00:Thread#0: Test #7/0 is finished on thread #0 as Failed within 0,0759656 seconds
+2019-11-30T18:48:10.9926308+01:00:Thread#0: Test #7/1 is started on thread #0
+2019-11-30T18:48:10.9938477+01:00:2019-11-30T18:48:10.9933735+01:00:Thread#0:B:When the time is "24:00:00"
+2019-11-30T18:48:10.9947612+01:00:2019-11-30T18:48:10.9943597+01:00:Thread#0:T:done: TheBerlinClockSteps.WhenTheTimeIs("24:00:00") (0,0s)
+2019-11-30T18:48:10.9955107+01:00:2019-11-30T18:48:10.9951606+01:00:Thread#0:B:Then the clock should look like
+2019-11-30T18:48:10.9960219+01:00:2019-11-30T18:48:10.9957765+01:00:Thread#0:B:  --- multiline step argument ---
+2019-11-30T18:48:10.9964640+01:00:2019-11-30T18:48:10.9962031+01:00:Thread#0:B:  Y
+2019-11-30T18:48:10.9969292+01:00:2019-11-30T18:48:10.9967057+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:10.9973476+01:00:2019-11-30T18:48:10.9971210+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:10.9977950+01:00:2019-11-30T18:48:10.9975787+01:00:Thread#0:B:  OOOOOOOOOOO
+2019-11-30T18:48:10.9981548+01:00:2019-11-30T18:48:10.9979683+01:00:Thread#0:B:  OOOO
+2019-11-30T18:48:10.9994382+01:00:2019-11-30T18:48:10.9991452+01:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<Y
+2019-11-30T18:48:10.9999411+01:00:2019-11-30T18:48:10.9996787+01:00:Thread#0:T:OOOO
+2019-11-30T18:48:11.0003878+01:00:2019-11-30T18:48:11.0001567+01:00:Thread#0:T:OOOO
+2019-11-30T18:48:11.0008655+01:00:2019-11-30T18:48:11.0006137+01:00:Thread#0:T:OOOOOOOOOOO
+2019-11-30T18:48:11.0013345+01:00:2019-11-30T18:48:11.0010864+01:00:Thread#0:T:OOOO>. Actual:<Y
+2019-11-30T18:48:11.0019775+01:00:2019-11-30T18:48:11.0016089+01:00:Thread#0:T:RRRR
+2019-11-30T18:48:11.0026394+01:00:2019-11-30T18:48:11.0023343+01:00:Thread#0:T:RRRR
+2019-11-30T18:48:11.0031435+01:00:2019-11-30T18:48:11.0028973+01:00:Thread#0:T:OOOOOOOOOOO
+2019-11-30T18:48:11.0035916+01:00:2019-11-30T18:48:11.0033338+01:00:Thread#0:T:OOOO>. 
+2019-11-30T18:48:11.0061810+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:11.0062026+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+2019-11-30T18:48:11.0062067+01:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-11-30T18:48:11.0062267+01:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-30T18:48:11.0062309+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-11-30T18:48:11.0062433+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-11-30T18:48:11.0062471+01:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-11-30T18:48:11.0062607+01:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-11-30T18:48:11.0062713+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-11-30T18:48:11.0082982+01:00:Thread#0: Test #7/1 is finished on thread #0 as Failed within 0,0156251 seconds
+2019-11-30T18:48:11.0092554+01:00:Thread#0: Test #7/2 is started on thread #0
+2019-11-30T18:48:11.0102835+01:00:2019-11-30T18:48:11.0099067+01:00:Thread#0:B:When the time is "24:00:00"
+2019-11-30T18:48:11.0112119+01:00:2019-11-30T18:48:11.0108472+01:00:Thread#0:T:done: TheBerlinClockSteps.WhenTheTimeIs("24:00:00") (0,0s)
+2019-11-30T18:48:11.0117625+01:00:2019-11-30T18:48:11.0115194+01:00:Thread#0:B:Then the clock should look like
+2019-11-30T18:48:11.0121613+01:00:2019-11-30T18:48:11.0119472+01:00:Thread#0:B:  --- multiline step argument ---
+2019-11-30T18:48:11.0126354+01:00:2019-11-30T18:48:11.0123591+01:00:Thread#0:B:  Y
+2019-11-30T18:48:11.0130795+01:00:2019-11-30T18:48:11.0128363+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:11.0135707+01:00:2019-11-30T18:48:11.0132879+01:00:Thread#0:B:  RRRR
+2019-11-30T18:48:11.0140253+01:00:2019-11-30T18:48:11.0137905+01:00:Thread#0:B:  OOOOOOOOOOO
+2019-11-30T18:48:11.0144780+01:00:2019-11-30T18:48:11.0142168+01:00:Thread#0:B:  OOOO
+2019-11-30T18:48:11.0162161+01:00:2019-11-30T18:48:11.0158653+01:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<Y
+2019-11-30T18:48:11.0167390+01:00:2019-11-30T18:48:11.0164887+01:00:Thread#0:T:OOOO
+2019-11-30T18:48:11.0172084+01:00:2019-11-30T18:48:11.0169509+01:00:Thread#0:T:OOOO
+2019-11-30T18:48:11.0177155+01:00:2019-11-30T18:48:11.0174266+01:00:Thread#0:T:OOOOOOOOOOO
+2019-11-30T18:48:11.0181882+01:00:2019-11-30T18:48:11.0179307+01:00:Thread#0:T:OOOO>. Actual:<Y
+2019-11-30T18:48:11.0186851+01:00:2019-11-30T18:48:11.0183906+01:00:Thread#0:T:RRRR
+2019-11-30T18:48:11.0191662+01:00:2019-11-30T18:48:11.0188951+01:00:Thread#0:T:RRRR
+2019-11-30T18:48:11.0196656+01:00:2019-11-30T18:48:11.0193942+01:00:Thread#0:T:OOOOOOOOOOO
+2019-11-30T18:48:11.0201573+01:00:2019-11-30T18:48:11.0199175+01:00:Thread#0:T:OOOO>. 
+2019-11-30T18:48:11.0221169+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-30T18:48:11.0221365+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-30T18:48:11.0221414+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-11-30T18:48:11.0221456+01:00:Thread#0:Scheduler: No more tests for thread
+2019-11-30T18:48:11.0475557+01:00:Thread#0: Test #7/2 is finished on thread #0 as Failed within 0,0382293 seconds
+2019-11-30T18:48:11.0587944+01:00:2019-11-30T18:48:11.0584006+01:00:Got Deinitialize Signal
+2019-11-30T18:48:11.0727875+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2019-11-30T18:48:11.0727875+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2019-11-30T18:48:11.0729027+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-11-30T18:48:11.0757059+01:00:Assembly resolving System.Net.Sockets.resources, Version=4.2.1.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:11.0757214+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:11.0757240+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\System.Net.Sockets.resources.dll'
+2019-11-30T18:48:11.0757765+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\System.Net.Sockets.resources.exe'
+2019-11-30T18:48:11.0758101+01:00:[AssemblyCache] Could not resolve 'System.Net.Sockets.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:11.0758132+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' from .deps.json file
+2019-11-30T18:48:11.0758162+01:00:[AssemblyCache] Could not resolve 'System.Net.Sockets.resources' from .deps.json
+2019-11-30T18:48:11.0764410+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:11.0764754+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\System.Net.Sockets.resources.dll'
+2019-11-30T18:48:11.0765754+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\System.Net.Sockets.resources.exe'
+2019-11-30T18:48:11.0766438+01:00:[AssemblyCache] Could not resolve 'System.Net.Sockets.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:11.0769371+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:11.0769436+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\System.Net.Sockets.resources.dll'
+2019-11-30T18:48:11.0770217+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\System.Net.Sockets.resources.exe'
+2019-11-30T18:48:11.0771059+01:00:[AssemblyCache] Could not resolve 'System.Net.Sockets.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:11.0773816+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:11.0773895+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\System.Net.Sockets.resources.dll'
+2019-11-30T18:48:11.0774424+01:00:[AssemblyCache] Trying to resolve 'System.Net.Sockets.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\System.Net.Sockets.resources.exe'
+2019-11-30T18:48:11.0774809+01:00:[AssemblyCache] Could not resolve 'System.Net.Sockets.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:11.0781806+01:00:Assembly resolving System.Net.Sockets.resources, Version=4.2.1.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:11.0786465+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.1.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:11.0786571+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:11.0786624+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\System.Diagnostics.Process.resources.dll'
+2019-11-30T18:48:11.0787028+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1\System.Diagnostics.Process.resources.exe'
+2019-11-30T18:48:11.0787398+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\SpectFlowTest\bin\Debug\netcoreapp2.1'
+2019-11-30T18:48:11.0787481+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2019-11-30T18:48:11.0787507+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2019-11-30T18:48:11.0793382+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:11.0793468+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\System.Diagnostics.Process.resources.dll'
+2019-11-30T18:48:11.0794273+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6\System.Diagnostics.Process.resources.exe'
+2019-11-30T18:48:11.0795032+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All\2.1.6'
+2019-11-30T18:48:11.0797569+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:11.0797618+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\System.Diagnostics.Process.resources.dll'
+2019-11-30T18:48:11.0798317+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6\System.Diagnostics.Process.resources.exe'
+2019-11-30T18:48:11.0798921+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.6'
+2019-11-30T18:48:11.0801088+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:11.0801137+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\System.Diagnostics.Process.resources.dll'
+2019-11-30T18:48:11.0801571+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6\System.Diagnostics.Process.resources.exe'
+2019-11-30T18:48:11.0801975+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.6'
+2019-11-30T18:48:11.0807420+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.1.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2019-11-30T18:48:11.0960405+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-11-30T18:48:11.0960590+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-30T18:48:11.0960620+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-11-30T18:48:11.1170166+01:00;Thread#12;Info;test run finished
+2019-11-30T18:48:11.1173047+01:00;Thread#12;Info;publishing test results
+2019-11-30T18:48:11.1179897+01:00;Thread#12;Info;Not publishing results.
+2019-11-30T18:48:11.1181690+01:00;Thread#12;Info;test results published
+2019-11-30T18:48:11.1182555+01:00;Thread#12;Info;generating reports
+2019-11-30T18:48:11.2314082+01:00;Thread#12;Info;Starting external report generation process
+2019-11-30T18:48:13.4576353+01:00;Thread#12;Info;Successfully generated reports.
+2019-11-30T18:48:13.4607741+01:00;Thread#12;Info;Successfully generated reports
+2019-11-30T18:48:13.4733703+01:00:Total: 4 (test executions: 6)
+2019-11-30T18:48:13.4772933+01:00:Succeeded: 3
+2019-11-30T18:48:13.4784816+01:00:Ignored: 0
+2019-11-30T18:48:13.4793118+01:00:Pending: 0
+2019-11-30T18:48:13.4793273+01:00:Skipped: 0
+2019-11-30T18:48:13.4801357+01:00:Failed: 1
+2019-11-30T18:48:13.4950279+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-11-30T18:48:13.4952371+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\alberto.florenzo\Desktop\DotNetBerlinClock\DotNetBerlinClock-master\TestResults\Unnamed project__2019-11-30T184758.html'
+========== End of log file ==========
